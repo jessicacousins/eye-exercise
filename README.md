@@ -8,6 +8,10 @@ The footer contains two links, one that points to the landing page and another t
 
 The JavaScript code creates an event listener that listens for mouse movements. When the mouse moves, the code calculates the position of the mouse pointer and updates the position of the pupils accordingly. The pupils move based on the percentage of the mouse's position relative to the width and height of the viewport.
 
+## How-to-Run:
+
+The project requires no dependencies or setup before it can be run. Fork and then clone the repository to your local machine. Open the "index.html" file to load the webpage into your local browser.
+
 ## Roadmap of future improvements
 
 Creating more images or adding this into another section of a webpage to showcase my JS skills. I plan on editing the code to improve the image overlay and adjust some of the font colors.
